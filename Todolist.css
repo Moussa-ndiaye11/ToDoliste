@@ -1,0 +1,19 @@
+body {
+   background: gray;
+}
+
+.todo-done {
+   background-color: #28a745;
+   color: #fff;
+}
+.todo-doing {
+   background-color: #ffc107;
+   color: black;
+}
+.todo-todo {
+   background-color: #dc3545;
+   color: #fff;
+}
+.col-4 {
+   color: black;
+}
